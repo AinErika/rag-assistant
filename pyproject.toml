@@ -16,7 +16,7 @@ dependencies = [
     "ollama>=0.6.2",
     "openai>=2.41.0",
     "pgvector>=0.4.2",
-    "psycopg2>=2.9.12",
+    "psycopg2-binary==2.9.12",
     "pydantic-settings>=2.14.1",
     "pymilvus[milvus-lite]>=3.0.0",
     "qdrant-client>=1.18.0",
