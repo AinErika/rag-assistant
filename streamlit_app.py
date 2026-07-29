@@ -197,3 +197,4 @@ if __name__ == "__main__":
 # rebuild
 # rebuild after removing bcc
 # rebuild
+# trigger rebuild after package=false
