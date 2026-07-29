@@ -22,6 +22,7 @@ dependencies = [
     "qdrant-client>=1.18.0",
     "rank-bm25>=0.2.2",
     "ruff>=0.15.16",
+    "streamlit>=1.36.0",
     "sqlite-vec>=0.1.9",
 ]
 
@@ -111,3 +112,5 @@ known-third-party = ["pydantic", "sqlalchemy", "fastapi"]
 lines-after-imports = 2
 force-sort-within-sections = true
 combine-as-imports = true
+
+
