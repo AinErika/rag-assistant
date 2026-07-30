@@ -42,6 +42,11 @@ htmlcov/
 .nox/
 .coverage
 .coverage.*
+*.db
+chroma_db/
+__pycache__/
+*.pyc
+*.log
 .cache
 nosetests.xml
 coverage.xml
